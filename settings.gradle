@@ -1,0 +1,12 @@
+include ':unSplash'
+include ':RevealEffectBasic'
+include ':ourStreets'
+include ':motion'
+include ':Interpolator'
+include ':gridToPager'
+include ':drawableAnimation'
+include ':customTransition'
+include ':baseTransition'
+include ':activitySceneTransitionBasic'
+include ':app'
+rootProject.name = "GoogleAnimationApplication"
